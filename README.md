@@ -10,6 +10,7 @@ A simple, yet powerful, hashcode helper
  ```
 
  # Usage
+ 
  ```ts
     import Hashcode from "./hashcode";
 
