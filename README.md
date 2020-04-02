@@ -3,7 +3,7 @@ A simple, yet powerful, hashcode helper
 
 # Installation
 
-```
+```shell
     npm install hashcode.ts
     # or ...
     yarn add hashcode.ts
@@ -11,7 +11,7 @@ A simple, yet powerful, hashcode helper
 
  # Usage
  
- ```ts
+ ```typescript
     import Hashcode from "./hashcode";
 
     // You can use the generic form...
