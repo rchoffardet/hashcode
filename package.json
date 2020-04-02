@@ -1,10 +1,10 @@
 {
   "name": "hashcode.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple typescript hashcode helper",
   "main": "dist/hashcode.js",
   "typings": "ditst/hashcode.d.ts",
-  "files":[
+  "files": [
     "dist/hashcode.js",
     "dist/hashcode.d.ts"
   ],
@@ -29,7 +29,9 @@
   ],
   "author": "Robin Choffardet <robin.choffardet@ikarnet.com>",
   "license": "MIT",
-  "publishConfig": { "registry": "https://registry.npmjs.org/" },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
